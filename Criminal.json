@@ -1,0 +1,24 @@
+[
+    {
+        "Address": "House no. 78_B, Bahria Town, Lahore",
+        "Crime ID num": 4500,
+        "Criminal History": "2 charges dropped",
+        "Criminal name": "Eashal",
+        "CriminalId": 101000,
+        "Description": "5 feet 4 inch, Brown hair",
+        "Gender": "Female",
+        "Job": "Stole an Artifact",
+        "Phone Number": "0304858355"
+    },
+    {
+        "Address": "Johar Town, House @B",
+        "Crime ID num": 71000,
+        "Criminal History": "2 charges dropped ",
+        "Criminal name": "Fatima ",
+        "CriminalId": 101001,
+        "Description": "Long hair with glasses",
+        "Gender": "Female",
+        "Job": "Software Engineer",
+        "Phone Number": "04473948439"
+    }
+]

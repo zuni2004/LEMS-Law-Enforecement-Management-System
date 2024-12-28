@@ -1,0 +1,26 @@
+{
+    "Evidences": [
+        {
+            "Case File ID": "n1",
+            "Description": "Knife Blood of victim matches the blood on Knife",
+            "Evidence Count": 0,
+            "Evidence ID": "n1 0",
+            "Status": "Examination Completed"
+        }
+    ],
+    "Info": {
+        "CNIC": "42010-1344638-8",
+        "Evidence Count": 1,
+        "ID": "DNA0",
+        "Lab ID": "UNDEFINED",
+        "Name": "Summayyah",
+        "Salary per Month": 100000.0,
+        "Specialization": "DNA analyst",
+        "Status": "Hired",
+        "Task Capacity": 2
+    },
+    "Login Info": {
+        "Password": "f1234@A",
+        "Username": "UserDNA0"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Info": {
+        "Availability": false,
+        "Badge Number": 2,
+        "Date Of Hiring": 1,
+        "Month": 2,
+        "Name": "Muhammad Ali",
+        "Officer ID": "HC2",
+        "Rank": "Head Constable",
+        "Salary per Month": 50000.0,
+        "Status": "Hired",
+        "Work Years": 0,
+        "Year": 24
+    },
+    "Investigation 0": {
+        "Case file ID": "n1",
+        "Investigation count": 0,
+        "Status": "In progress"
+    },
+    "Login Info": {
+        "Password": "password",
+        "Username": "officerHC2"
+    },
+    "Patrolling 0": {
+        "Patrolling ID": "Routine patrolling1",
+        "Patrolling count": 0,
+        "Status": "Completed"
+    },
+    "Task Count": {
+        "Current Assigned Investigation": "Investigation 0",
+        "Current Assigned Patrolling": "None",
+        "Investigation count": 1,
+        "Patrolling count": 1
+    }
+}

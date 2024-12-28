@@ -1,0 +1,14 @@
+[
+    {
+        "Crime Id": 4500,
+        "Date": "12",
+        "Description": "Stole ",
+        "Evidence": [
+            null
+        ],
+        "Financial Loss": 120000.0,
+        "Location": "Bahria Town Mueseum",
+        "Motive": "Greedy",
+        "Status": "solved"
+    }
+]

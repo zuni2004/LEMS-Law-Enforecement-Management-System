@@ -1,0 +1,30 @@
+{
+    "Info": {
+        "Availability": false,
+        "Badge Number": 1,
+        "Date Of Hiring": 1,
+        "Month": 2,
+        "Name": "Bilal Khan",
+        "Officer ID": "IP1",
+        "Rank": "IP",
+        "Salary per Month": 100000.0,
+        "Status": "Hired",
+        "Work Years": 0,
+        "Year": 24
+    },
+    "Investigation 0": {
+        "Case file ID": "em1",
+        "Investigation count": 0,
+        "Status": "In progress"
+    },
+    "Login Info": {
+        "Password": "Zuni@1234",
+        "Username": "officerIP1"
+    },
+    "Task Count": {
+        "Current Assigned Investigation": "Investigation 0",
+        "Current Assigned Patrolling": "None",
+        "Investigation count": 1,
+        "Patrolling count": 0
+    }
+}

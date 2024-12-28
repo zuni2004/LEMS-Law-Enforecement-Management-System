@@ -1,0 +1,20 @@
+{
+    "Patrollings": [
+        {
+            "Area": "Bahria Town Block M",
+            "Assigned officer IDs": [
+                "HC2"
+            ],
+            "Assigned Vehicles IDs": [
+                "109005"
+            ],
+            "Case ID": "Routine patrolling1",
+            "Count of assigned officers": 1,
+            "Date": 2,
+            "Month": 3,
+            "Status": "Completed",
+            "Type": "Routine Patrolling",
+            "Year": 24
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Info": {
+        "Assigned officer IDs": [
+            "ASI1",
+            "ASI2",
+            "SI2",
+            "SI3"
+        ],
+        "Assigned Equipment IDs" : [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Assigned Vehicles IDs" : [
+            109000,
+            109001,
+            109002,
+            109003,
+            109004
+        ],
+        "Case ID": "em1",
+        "Complain ID": 10,
+        "Complain file": "1.json",
+        "Count of assigned officers": 5,
+        "Leading officer ID": "IP1",
+        "Status": "In progress"
+    }
+}

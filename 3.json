@@ -1,0 +1,21 @@
+{
+    "Complaints": [
+        {
+            "Complain Count": 30,
+            "Emergency": false,
+            "Incident Address": "House no.4-N, Izmir Town",
+            "Incident Date": "2024-04-02",
+            "Incident Detail": "Noise coming from neighbours",
+            "Incident Time": "23:45",
+            "Police Station ID": 1,
+            "Status": "Discarded"
+        }
+    ],
+    "Info": {
+        "Address": "House no.5-N, Izmir Town, Lahore",
+        "CNIC": "42101-437834-0",
+        "Contact info": "03738273847",
+        "Email": "zuni.20012T@gmail.com",
+        "Name": "Zunaira"
+    }
+}

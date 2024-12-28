@@ -1,0 +1,30 @@
+{
+    "Info": {
+        "Availability": false,
+        "Badge Number": 1,
+        "Date Of Hiring": 12,
+        "Month": 4,
+        "Name": "Khadijah Khan",
+        "Officer ID": "HC1",
+        "Rank": "Head Constable",
+        "Salary per Month": 50000.0,
+        "Status": "Hired",
+        "Work Years": 0,
+        "Year": 24
+    },
+    "Investigation 0": {
+        "Case file ID": "n1",
+        "Investigation count": 0,
+        "Status": "In progress"
+    },
+    "Login Info": {
+        "Password": "Itu12@34",
+        "Username": "officerHC1"
+    },
+    "Task Count": {
+        "Current Assigned Investigation": "Investigation 0",
+        "Current Assigned Patrolling": "None",
+        "Investigation count": 1,
+        "Patrolling count": 0
+    }
+}

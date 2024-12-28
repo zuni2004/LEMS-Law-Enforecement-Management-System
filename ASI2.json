@@ -1,0 +1,26 @@
+{
+    "Info": {
+        "Availability": false,
+        "Badge Number": 2,
+        "Date Of Hiring": 1,
+        "Month": 2,
+        "Name": "Maryam Khan",
+        "Officer ID": "ASI2",
+        "Rank": "ASI",
+        "Salary per Month": 60000.0,
+        "Status": "Hired",
+        "Work Years": 0,
+        "Year": 24
+    },
+    "Investigation 0": {
+        "Case file ID": "em1",
+        "Investigation count": 0,
+        "Status": "In progress"
+    },
+    "Task Count": {
+        "Current Assigned Investigation": "Investigation 0",
+        "Current Assigned Patrolling": "None",
+        "Investigation count": 1,
+        "Patrolling count": 0
+    }
+}

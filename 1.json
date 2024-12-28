@@ -1,0 +1,21 @@
+{
+    "Complaints": [
+        {
+            "Complain Count": 10,
+            "Emergency": true,
+            "Incident Address": "House no. 5, Block M, Model Town, Lahore",
+            "Incident Date": "2024-05-05",
+            "Incident Detail": "Burglary",
+            "Incident Time": "8:32",
+            "Police Station ID": 1,
+            "Status": "Investigation in progress"
+        }
+    ],
+    "Info": {
+        "Address": "House no. 5, Block M, Model Town, Lahore",
+        "CNIC": "42101-1234567-0",
+        "Contact info": "03093636428",
+        "Email": "bdulAziz.12@gmail.com",
+        "Name": "Abdul Aziz"
+    }
+}

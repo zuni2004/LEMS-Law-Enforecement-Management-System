@@ -1,0 +1,13 @@
+{
+    "Info": {
+        "CNIC": "42101-3453254-0",
+        "ID": "AS1",
+        "Name": "Abdul Rehman",
+        "Salary per Month": 200000.0,
+        "Status": "Hired"
+    },
+    "Login Info": {
+        "Password": "1234@OOPs",
+        "Username": "UserAS1"
+    }
+}

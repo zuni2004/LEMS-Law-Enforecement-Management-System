@@ -1,0 +1,13 @@
+[
+    {
+        "Capacity": 50,
+        "CellID": 1,
+        "Criminal Ids": [
+            101000,
+            101001,
+            101002
+        ],
+        "Location": "LT2",
+        "Occupancy": 3
+    }
+]

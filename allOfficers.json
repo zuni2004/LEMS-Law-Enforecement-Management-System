@@ -1,0 +1,164 @@
+{
+    "ASI1": {
+        "Availability": true,
+        "Badge Number": 1,
+        "Name": "Saad Ahmed",
+        "Officer ID": "ASI1",
+        "Rank": "ASI",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "ASI2": {
+        "Availability": true,
+        "Badge Number": 2,
+        "Name": "Maryam Khan",
+        "Officer ID": "ASI2",
+        "Rank": "ASI",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "ASI3": {
+        "Availability": true,
+        "Badge Number": 3,
+        "Name": "Meerab Abid",
+        "Officer ID": "ASI3",
+        "Rank": "ASI",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "ASI4": {
+        "Availability": true,
+        "Badge Number": 4,
+        "Name": "Fatima Khan",
+        "Officer ID": "ASI4",
+        "Rank": "ASI",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "C1": {
+        "Availability": true,
+        "Badge Number": 1,
+        "Name": "Ahmed Hassan",
+        "Officer ID": "C1",
+        "Rank": "Constable",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "C2": {
+        "Availability": true,
+        "Badge Number": 2,
+        "Name": "Usman Shah",
+        "Officer ID": "C2",
+        "Rank": "Constable",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "C3": {
+        "Availability": true,
+        "Badge Number": 3,
+        "Name": "Sana Ahmed",
+        "Officer ID": "C3",
+        "Rank": "Constable",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "CO1": {
+        "Availability": true,
+        "Badge Number": 1,
+        "Name": "Zaynah ",
+        "Officer ID": "CO1",
+        "Rank": "CO",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "CO2": {
+        "Availability": true,
+        "Badge Number": 2,
+        "Name": "Faryal Fatima",
+        "Officer ID": "CO2",
+        "Rank": "CO",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "HC1": {
+        "Availability": true,
+        "Badge Number": 1,
+        "Name": "Khadijah Khan",
+        "Officer ID": "HC1",
+        "Rank": "Head Constable",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "HC2": {
+        "Availability": true,
+        "Badge Number": 2,
+        "Name": "Muhammad Ali",
+        "Officer ID": "HC2",
+        "Rank": "Head Constable",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "HC3": {
+        "Availability": true,
+        "Badge Number": 3,
+        "Name": "Fatima Khan",
+        "Officer ID": "HC3",
+        "Rank": "Head Constable",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "IP1": {
+        "Availability": true,
+        "Badge Number": 1,
+        "Name": "Bilal Khan",
+        "Officer ID": "IP1",
+        "Rank": "IP",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "IP2": {
+        "Availability": true,
+        "Badge Number": 2,
+        "Name": "Zainab Ali",
+        "Officer ID": "IP2",
+        "Rank": "IP",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "IP3": {
+        "Availability": true,
+        "Badge Number": 3,
+        "Name": "Ali Ahmed",
+        "Officer ID": "IP3",
+        "Rank": "IP",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "SI1": {
+        "Availability": true,
+        "Badge Number": 1,
+        "Name": "Muzna Farukh",
+        "Officer ID": "SI1",
+        "Rank": "SI",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "SI2": {
+        "Availability": true,
+        "Badge Number": 2,
+        "Name": "Umamah khan",
+        "Officer ID": "SI2",
+        "Rank": "SI",
+        "Status": "Hired",
+        "Work Years": 0
+    },
+    "SI3": {
+        "Availability": true,
+        "Badge Number": 3,
+        "Name": "Javaria Naveed",
+        "Officer ID": "SI3",
+        "Rank": "SI",
+        "Status": "Hired",
+        "Work Years": 0
+    }
+}

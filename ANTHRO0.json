@@ -1,0 +1,17 @@
+{
+    "Info": {
+        "CNIC": "42101-47483749-9",
+        "Evidence Count": 0,
+        "ID": "ANTHRO0",
+        "Lab ID": "UNDEFINED",
+        "Name": "Saher Abbasi",
+        "Salary per Month": 120000.0,
+        "Specialization": "Anthropologist",
+        "Status": "Hired",
+        "Task Capacity": 1
+    },
+    "Login Info": {
+        "Password": "ooPs123@",
+        "Username": "UserANTHRO0"
+    }
+}

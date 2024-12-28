@@ -1,0 +1,21 @@
+{
+    "Complaints": [
+        {
+            "Complain Count": 20,
+            "Emergency": false,
+            "Incident Address": "ITU, LT-2, Arfa Karim Tower",
+            "Incident Date": "2024-05-05",
+            "Incident Detail": "Killed a Student by stress",
+            "Incident Time": "12:00",
+            "Police Station ID": 1,
+            "Status": "Investigation in progress"
+        }
+    ],
+    "Info": {
+        "Address": "House no.2 Block A, Model Town,Lahore",
+        "CNIC": "42101-3474274-9",
+        "Contact info": "03977484733",
+        "Email": "ubs@itu.edu.pk",
+        "Name": "Usama bin Shakeel"
+    }
+}

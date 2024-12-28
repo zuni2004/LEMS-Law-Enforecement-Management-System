@@ -1,0 +1,74 @@
+[
+    {
+        "AvailabilityStatus": false,
+        "Equipment ID": 1,
+        "Model": "Gen 5",
+        "Name": "Glock 17"
+    },
+    {
+        "AvailabilityStatus": false,
+        "Equipment ID": 2,
+        "Model": "Gen 5",
+        "Name": "Glock 17"
+    },
+    {
+        "AvailabilityStatus": false,
+        "Equipment ID": 3,
+        "Model": "M4A1",
+        "Name": "M4 Carbine"
+    },
+    {
+        "AvailabilityStatus": false,
+        "Equipment ID": 4,
+        "Model": "M4A1",
+        "Name": "M4 Carbine"
+    },
+    {
+        "AvailabilityStatus": false,
+        "Equipment ID": 5,
+        "Model": "M4A1",
+        "Name": "M4 Carbine"
+    },
+    {
+        "AvailabilityStatus": true,
+        "Equipment ID": 6,
+        "Model": "M4A1",
+        "Name": "M4 Carbine"
+    },
+    {
+        "AvailabilityStatus": true,
+        "Equipment ID": 7,
+        "Model": "Beretta 92FS",
+        "Name": "Beretta"
+    },
+    {
+        "AvailabilityStatus": true,
+        "Equipment ID": 8,
+        "Model": "Beretta 92FS",
+        "Name": "Beretta"
+    },
+    {
+        "AvailabilityStatus": true,
+        "Equipment ID": 9,
+        "Model": "Gen 7",
+        "Name": "Glock 17"
+    },
+    {
+        "AvailabilityStatus": true,
+        "Equipment ID": 10,
+        "Model": "Gen 7",
+        "Name": "Glock 17"
+    },
+    {
+        "AvailabilityStatus": true,
+        "Equipment ID": 11,
+        "Model": "M4A",
+        "Name": "Rifle"
+    },
+    {
+        "AvailabilityStatus": true,
+        "Equipment ID": 12,
+        "Model": "M4A",
+        "Name": "Rifle"
+    }
+]

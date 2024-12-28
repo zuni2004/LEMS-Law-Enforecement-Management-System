@@ -1,0 +1,36 @@
+{
+    "Evidences": [
+        {
+            "Associated Case ID": "n1",
+            "Chain of Custody": "HC2 found it",
+            "Date And Time Found": "2023-3-5 12:34:8",
+            "Description": "Knife",
+            "Discovered by officer IDs": [
+                "HC2"
+            ],
+            "ID": "n1 0",
+            "Location Found": "crime scene",
+            "Priority": 1,
+            "Remarks": "Check for victims blood",
+            "Source": "Officer",
+            "Status": "1",
+            "Type": "Weapon"
+        }
+    ],
+    "Info": {
+        "Assigned officer IDs": [
+            "C2",
+            "C3"
+        ],
+        "Case ID": "n1",
+        "Complain ID": 60,
+        "Complain file": "6.json",
+        "Count of assigned officers": 2,
+        "Leading officer ID": "HC2",
+        "Status": "In progress"
+    },
+    "Task Count": {
+        "Evidence count": 1,
+        "Person under investigation count": 0
+    }
+}

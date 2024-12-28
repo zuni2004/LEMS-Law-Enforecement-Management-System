@@ -1,0 +1,21 @@
+{
+    "Complaints": [
+        {
+            "Complain Count": 40,
+            "Emergency": true,
+            "Incident Address": "Same as house address",
+            "Incident Date": "2024-05-05",
+            "Incident Detail": "Break in",
+            "Incident Time": "12:34",
+            "Police Station ID": 1,
+            "Status": "Discarded"
+        }
+    ],
+    "Info": {
+        "Address": "House no.4, EME, Lahore",
+        "CNIC": "42101-3453837-8",
+        "Contact info": "03483483745",
+        "Email": "Z123.dhuyh@gmail.com",
+        "Name": "Zainab"
+    }
+}
