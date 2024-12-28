@@ -1,0 +1,67 @@
+[
+    {
+        "Crime Id": 71000,
+        "Date": "05-05-24",
+        "Description": "Killed a citizen",
+        "Evidence": [
+            [
+                {
+                    "AssociatedCaseID": "1",
+                    "ChainOfCustody": "Found by HC1",
+                    "DateAndTime": "24-07-05",
+                    "Description": "Gun",
+                    "ID": "1",
+                    "Location": "On crime scene",
+                    "Priority": 1,
+                    "Remarks": "1",
+                    "Source": "Eashal",
+                    "Status": "0",
+                    "Type": "Weapon"
+                }
+            ]
+        ],
+        "Location": "Model Town",
+        "Motive": "Greedy",
+        "Status": "unsolved",
+        "Weapons Involved": "Gun"
+    },
+    {
+        "Crime Id": 71001,
+        "Date": "4/6/7",
+        "Description": "no",
+        "Evidence": [
+            [
+                {
+                    "AssociatedCaseID": "1",
+                    "ChainOfCustody": "no",
+                    "DateAndTime": "3200",
+                    "Description": "ff",
+                    "ID": "13",
+                    "Location": "ds",
+                    "Priority": 1,
+                    "Remarks": "1",
+                    "Source": "2",
+                    "Status": "1",
+                    "Type": "3"
+                },
+                {
+                    "AssociatedCaseID": "1",
+                    "ChainOfCustody": "no",
+                    "DateAndTime": "3200",
+                    "Description": "ff",
+                    "ID": "13",
+                    "Location": "ds",
+                    "Priority": 1,
+                    "Remarks": "1",
+                    "Source": "2",
+                    "Status": "1",
+                    "Type": "3"
+                }
+            ]
+        ],
+        "Location": "lahore",
+        "Motive": "murder",
+        "Status": "solved",
+        "Weapons Involved": "no"
+    }
+]
